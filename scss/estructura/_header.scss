@@ -1,0 +1,21 @@
+header{
+    
+    background-color: $color-principal;
+    padding: 10px;
+    flex-direction:column;
+    align-items: center;
+    
+}
+#cabezado{
+    grid-row: auto;
+    height: 100px;
+}
+#navbarNav{
+    button:hover{
+width: 100%;
+    }
+}
+#opcionesnav{
+    background-color: $color-principal; 
+    font-size: 18px;
+}
